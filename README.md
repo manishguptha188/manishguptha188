@@ -1,25 +1,46 @@
-## Hi, I'm P Sai Manish 👋
+<img src="https://raw.githubusercontent.com/manishguptha188/manishguptha188/main/assets/header.svg" alt="Manish Guptha. Full-Stack Engineer and Founder, building AI agent and LLM tooling at Euklo. Hyderabad, India." width="100%">
 
-Final-year B.Sc. student (Mathematics, Statistics and Computer Science) in Hyderabad, India. I build web apps and
-small machine-learning tools, and I'm looking for a **full-stack / MERN internship**.
+Full-stack developer building developer-focused AI agent and LLM tooling at **[Euklo](https://euklo.vercel.app)**,
+and creator of **[Isoklo](https://github.com/isoklo/isoklo)**. I focus on deterministic developer infrastructure, fast
+web applications and verifiable AI workflows.
 
-**Right now:** learning the MERN stack (MongoDB, Express, React, Node.js).
+### Flagship work
 
-### Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://euklo.vercel.app">Euklo</a></b><br>
+      <sub>Founder &amp; Full-Stack Engineer</sub>
+      <p>A developer-focused studio for AI agent and LLM tooling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/isoklo/isoklo">Isoklo</a></b> <code>v0.1.1</code><br>
+      <sub>Creator</sub>
+      <p>A zero-dependency CLI and GitHub Action merge gate that stops AI agents from weakening tests, adding
+      packages that don't exist, or widening repository permissions. Every block shows the exact line.</p>
+      <p>
+        <a href="https://github.com/isoklo/isoklo-demo">Live demo PRs</a> ·
+        <a href="https://isoklo.vercel.app">Showcase site</a> ·
+        <a href="https://www.npmjs.com/package/isoklo">npm</a> ·
+        <a href="https://github.com/marketplace/actions/isoklo">GitHub Marketplace</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**[Neural Network Playground](https://github.com/manishguptha188/neural-network-playground)** · Python, TensorFlow/Keras, Streamlit, Plotly, pytest\
-An interactive app that replays how a small 2 → 8 → 1 network learns to separate two classes, epoch by epoch:
-decision boundary, neuron activations, loss curves and weights. The saved model classifies 87% of held-out test
-points correctly, and 11 pytest tests cover the saved model, retraining and the app itself (run headlessly).
+### Selected public engineering
 
-**[Desert terrain segmentation](https://github.com/manishguptha188/hackathon)** · Python, PyTorch, segmentation-models-pytorch · team project\
-Team NEXUS's entry to the Duality AI off-road segmentation hackathon: a DeepLabV3+ / U-Net ensemble that labels
-every pixel of synthetic desert images. Our report gives 0.7304 validation mean IoU. A later check found the model
-only predicts 5 of its 10 classes; the README documents it.
+**[FairShare](https://github.com/manishguptha188/fairshare)** · MongoDB, Express, React, Node.js\
+Shared-expense app that settles a group in the fewest payments. Money is stored as whole paise with deterministic
+remainder splits, balances are derived on every request so they cannot drift, and membership is enforced inside
+each query. 49 server tests run against a real database in CI.
 
-### Tools I've used
+**[Neural Network Playground](https://github.com/manishguptha188/neural-network-playground)** · Python, TensorFlow, Streamlit\
+Replays how a small 2 → 8 → 1 network learns, epoch by epoch: decision boundary, neuron activations, loss curves
+and weights, covered by 11 pytest tests.
 
-Python · JavaScript · HTML / CSS · React · Vite · TensorFlow / Keras · PyTorch · scikit-learn · Streamlit · pytest ·
-Git and Git LFS · Vercel · GitHub Pages
+### Core stack
 
-Learning now: Node.js · Express · MongoDB
+`TypeScript` `Next.js` `React` `Node.js` `Express` `MongoDB` `Python` `GitHub Actions`
+
+<sub><a href="https://www.linkedin.com/in/p-sai-manish-9114bb314/">LinkedIn</a> · <a href="https://isoklo.vercel.app">isoklo.vercel.app</a> · <a href="https://euklo.vercel.app">Euklo</a></sub>
