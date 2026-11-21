@@ -14,7 +14,7 @@ web applications and verifiable AI workflows.
       <p>A developer-focused studio for AI agent and LLM tooling.</p>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/isoklo/isoklo">Isoklo</a></b> <code>v0.1.1</code><br>
+      <b><a href="https://github.com/isoklo/isoklo">Isoklo</a></b> <code>v0.1.2</code><br>
       <sub>Creator</sub>
       <p>A zero-dependency CLI and GitHub Action merge gate that stops AI agents from weakening tests, adding
       packages that don't exist, or widening repository permissions. Every block shows the exact line.</p>
